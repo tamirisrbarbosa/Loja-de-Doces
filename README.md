@@ -20,13 +20,13 @@ Sobre: Fala um pouco sobre o projeto e sua idealização.
 Veja as páginas acessando o repositório!
 
 *Utilizadas:*
-HTML: Estrutura da página.
-CSS: Estilização visual.
+* HTML: Estrutura da página.
+* CSS: Estilização visual.
 
 
 *Visualização:* 
-Link da loja: https://loja-de-doces.vercel.app/
-Vídeo mostrando o site sendo executado: https://www.youtube.com/watch?v=_LNhgkwqzFU
+* Link da loja: https://loja-de-doces.vercel.app/
+* Vídeo mostrando o site sendo executado: https://www.youtube.com/watch?v=_LNhgkwqzFU
 
 
 
