@@ -14,10 +14,10 @@ Esta loja virtual é um projeto inicial para demonstrar conhecimentos básicos d
   
 
 *Navegação:*
-Página Inicial: Apresenta a loja e os doces disponíveis.
-Produtos: Lista todos os doces com imagens, descrições e preços.
-Sobre: Fala um pouco sobre o projeto e sua idealização.
-Veja as páginas acessando o repositório!
+* Página Inicial: Apresenta a loja e os doces disponíveis.
+* Produtos: Lista todos os doces com imagens, descrições e preços.
+* Sobre: Fala um pouco sobre o projeto e sua idealização.
+* Veja as páginas acessando o repositório!
 
 *Utilizadas:*
 * HTML: Estrutura da página.
